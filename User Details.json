@@ -1,0 +1,17 @@
+{
+ "Google Sheets": [
+  {
+   "sheet_id": "",
+   "sheet_name": ""
+  }
+   ],
+ "Postgresql" : [
+   {
+     "user_id": "",
+     "password": "",
+     "db": "",
+     "hst": "",
+     "tbl_name": ""
+   }
+ ]
+}
