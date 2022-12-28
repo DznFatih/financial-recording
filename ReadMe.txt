@@ -10,9 +10,9 @@ Libraries
 
 Goal Description
 
-	Data has been captured by a user whenever there is a flow of money for a given day. Each transaction is recorded
-	in there respective expense category like electricity, internet, heating, income etc. We want to move this data into 
-	a database in a consumable format and create a report for gaining insight into a family's financial behaviour.
+Data has been captured by a user whenever there is a flow of money for a given day. Each transaction is recorded
+in their respective expense category like electricity, internet, heating, income etc. We want to move this data into 
+a database in a consumable format and create a report for gaining insight into a family's financial behaviour.
 
 Execution Plan Step by Step
 
